@@ -1,0 +1,4 @@
+2012.07.18
+  Added a byte array that uses reference counting. Still need to write more
+  tests for it.
+

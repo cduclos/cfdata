@@ -1,0 +1,3 @@
+CFData is a C library aimed to provide a set of containers using reference counting and shallow copying (when possible).
+This is inspired by the containers provided by Qt, but since there is nothing in C that comes close to that I decided
+to write my own library.
