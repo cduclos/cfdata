@@ -2,6 +2,6 @@
 
 libtoolize
 aclocal \
-&& automake --add-missing \
 && autoheader \
+&& automake --add-missing \
 && autoconf
